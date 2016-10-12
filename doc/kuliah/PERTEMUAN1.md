@@ -41,27 +41,15 @@ BB kepanjangan dari Bujur Barat
 
 BT kepanjangan dari Bujur Timur
 
-Dan keseluruhan koordinat diukur dari titik 0 ° wilayah Greenwich
-
-
-
-
+Dan keseluruhan koordinat diukur dari titik 0 ï½° wilayah Greenwich
 
 
 
 1. **PENUTUP**
 
-1. Kesimpulan        : Sistem Informasi Geografis adalah sebuah system dimana menyediakan
+1. Kesimpulan        : Sistem Informasi Geografis adalah sebuah system dimana menyediakan penyajian data tentang keruangan suatu obyek berdasarkan titik lokasinya. Dan sangat dibutuhkan untuk di implementasikan pada aplikasi yang menggunakan system pemetaan.
 
-                             penyajian data tentang keruangan suatu obyek berdasarkan titik
-
-                             lokasinya. Dan sangat dibutuhkan untuk di implementasikan pada
-
-                             aplikasi yang menggunakan system pemetaan.
-
-1. Saran                 : Untuk lebih jelasnya silahkan sumber dan referensi lainnya yang
-
-                                    mungkin mempunyai artikel atau tulisan yang lebih lengkap\
+1. Saran                 : Untuk lebih jelasnya silahkan sumber dan referensi lainnya yang mungkin mempunyai artikel atau tulisan yang lebih lengkap
 
 
 
