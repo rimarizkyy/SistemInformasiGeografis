@@ -1,5 +1,5 @@
 
-
+ 
 1. **LATAR BELAKANG**
 
 Sistem Informasi Geografis adalah sebuah system dimana menyediakan penyajian data tentang keruangan suatu obyek berdasarkan titik lokasinya. Secara garis besar system ini akan sangat dibutuhkan untuk kebutuhan segala aspek keruangan, misalnya membuat rute, menunjukkan lokasi suatu alamat, dan lainnya.
