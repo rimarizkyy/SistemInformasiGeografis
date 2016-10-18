@@ -23,7 +23,7 @@ Data Vektor sendiri memiliki definisi yaitu data spasial yang menggambarkan perm
  Contoh data vektor:
 
 <p align="center">
-  <img src="../../img/vektor.jpg" width="400px">
+  <img src="../../img/vektor.JPG" width="400px">
 </p>
 
 1. **DATA RASTER**
@@ -35,7 +35,7 @@ Data raster biasanya digunakan untuk menggambarkan jenis tanah, kelembapan tanah
 Contoh data raster:
 
 <p align="center">
-  <img src="../../img/raster.jpg" width="400px">
+  <img src="../../img/raster.JPG" width="400px">
 </p>
  
 1. **PENUTUP**
