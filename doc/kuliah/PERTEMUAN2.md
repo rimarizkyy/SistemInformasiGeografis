@@ -10,9 +10,9 @@ Geospasial adalah salah satu aspek dari keruangan suatu obyek yang berada diatas
 
 Data spasial ini dibagi menjadi dua, yaitu Data Vektor dan Data Raster. Untuk lebih lanjutnya akan di bahas di bawah ini.
 
-1. **PEMBAHASAN**
+2. **PEMBAHASAN**
 
-1. **DATA VEKTOR**
+A. **DATA VEKTOR**
 
 Data Vektor sendiri memiliki definisi yaitu data spasial yang menggambarkan permukaan bumi dalam bentuk yang lebih nyata. Permukaan bumi ini digambarkan oleh beberapa aspek diantaranya yaitu garis, titik, nodes, dan juga point. Data vektor ini juga sangat baik menggambarkan detail fitur seperti jalan raya, bangunan, bandar udara, pelabuhan, dll.
 
@@ -26,7 +26,7 @@ Data Vektor sendiri memiliki definisi yaitu data spasial yang menggambarkan perm
   <img src="../../img/vektor.JPG" width="400px">
 </p>
 
-1. **DATA RASTER**
+B. **DATA RASTER**
 
 Data Raster di definisikan sebagai data yang menggambarkan permukaan bumi melalui kitak persegi yang menjadi satu kesatuan sehinggan terbentuklah penggambaran dari permukaan bumi tersebut. Kotak persegi atau grid itu biasa disebut pixel (picture element). Dengan kata lain, penggambaran obyek data raster bergantung pada ukuran pixelnya yang menentukan besar kecilnya resolusi. Semakin kecil suatu obyek di bumi digambarkan maka semakin tinggi pula resolusinya.
 
@@ -38,10 +38,10 @@ Contoh data raster:
   <img src="../../img/raster.JPG" width="400px">
 </p>
  
-1. **PENUTUP**
+3. **PENUTUP**
 
-1. **Kesimpulan** : Geospasial memiliki data spasial yang teridiri dari Data Vektor dan Data Raster. Data Vektor lebih detail dalam hal penggambaran muka bumi namun tidak dapat digunakan sistem matematis. Sedangkan Data Raster adalah data yang diukur dari pixel gambar itu sendiri sehingga menghasilkan resolusi yang tinggi.
-2. **Saran:** disarankan untuk membaca referensi bacaan lain di situs lain yang mungkin lebih lengkap dari blog ini.
+a. **Kesimpulan** : Geospasial memiliki data spasial yang teridiri dari Data Vektor dan Data Raster. Data Vektor lebih detail dalam hal penggambaran muka bumi namun tidak dapat digunakan sistem matematis. Sedangkan Data Raster adalah data yang diukur dari pixel gambar itu sendiri sehingga menghasilkan resolusi yang tinggi.
+b. **Saran:** disarankan untuk membaca referensi bacaan lain di situs lain yang mungkin lebih lengkap dari blog ini.
 
 URL Github: [https://github.com/rimarizkyy/SistemInformasiGeografis.git](https://github.com/rimarizkyy/SistemInformasiGeografis.git)
 
@@ -55,7 +55,7 @@ Referensi : [http://nilaamallia.blogspot.co.id/2011/01/data-vektor-dan-data-rast
 
 Plagiarisme:
 
-1.       Smallseotools: [https://drive.google.com/open?id=0B5Iinqg\_puu9dWRmclA0amZSNU0](https://drive.google.com/open?id=0B5Iinqg_puu9dWRmclA0amZSNU0)
+1. Smallseotools: [https://drive.google.com/open?id=0B5Iinqg\_puu9dWRmclA0amZSNU0](https://drive.google.com/open?id=0B5Iinqg_puu9dWRmclA0amZSNU0)
 
-2.       Searchenginereports: [https://drive.google.com/open?id=0B5Iinqg\_puu9MGc4WWltWG5iUVk](https://drive.google.com/open?id=0B5Iinqg_puu9MGc4WWltWG5iUVk)
+2. Searchenginereports: [https://drive.google.com/open?id=0B5Iinqg\_puu9MGc4WWltWG5iUVk](https://drive.google.com/open?id=0B5Iinqg_puu9MGc4WWltWG5iUVk)
 
