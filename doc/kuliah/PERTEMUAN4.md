@@ -18,19 +18,19 @@ Retrieve Data Geospasial yaitu cara pengambilan data geometris dan juga database
 
 **Syntak membaca jumlah data geometri**
 
-&gt;&gt; import shapefile
-&gt;&gt; sf = shapefile.Reader(&quot;namafile.shp&quot;)
-&gt;&gt; sf.shapes()
-&gt;&gt; a = sf.shapes()
-&gt;&gt; print len(a)
+- &gt;&gt; import shapefile
+- &gt;&gt; sf = shapefile.Reader(&quot;namafile.shp&quot;)
+- &gt;&gt; sf.shapes()
+- &gt;&gt; a = sf.shapes()
+- &gt;&gt; print len(a)
 
 **Syntak membaca data DBF**
 
 DBF sendiri adalah file yang menyimpan data atribut dan dapat juga menyimpan file tabular.
 
-&gt;&gt; import shapefile
-&gt;&gt; sf.records()
-&gt;&gt; sf.records(n)
+- &gt;&gt; import shapefile
+- &gt;&gt; sf.records()
+- &gt;&gt; sf.records(n)
 
 **PENUTUP**
 
